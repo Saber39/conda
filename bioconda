@@ -1,0 +1,3 @@
+#使用bioconda安装软件
+
+conda install -c bioconda htseq=0.7.2
