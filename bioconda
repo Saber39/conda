@@ -1,3 +1,7 @@
-#使用bioconda安装软件
+#使用bioconda安装软件，学习来自于http://www.biotrainee.com/thread-1742-1-1.html
 
+conda install -c bioconda samtools=1.5
 conda install -c bioconda htseq=0.7.2
+conda install -c bioconda hisat2=2.1.0
+conda install -c bioconda fastqc=0.11.5
+conda install -c jfear sratoolkit=2.8.1
