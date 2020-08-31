@@ -1,0 +1,9 @@
+#使用conda cloud进行安装命令的查询#
+
+https://anaconda.org/
+
+#比如fastqc有三条安装命令
+To install this package with conda run one of the following:
+conda install -c bioconda fastqc
+conda install -c bioconda/label/broken fastqc
+conda install -c bioconda/label/cf201901 fastqc
