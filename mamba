@@ -1,0 +1,8 @@
+1.用 conda-forge 的 channel 进行安装 ，无报错就成功；
+conda install mamba-c conda-forge 
+
+2.报错换种方式安装mamba
+conda install -y -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda homer
+conda install -y mamba        
+#去掉 -y 也可以试一试，安装mamba巨慢；
+测试安装成功；安装上mamba,就可以快速的安装各种软件了；
