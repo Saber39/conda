@@ -1,0 +1,4 @@
+#install busco
+mamba install -c bioconda busco
+
+#use busco
